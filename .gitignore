@@ -1,0 +1,12 @@
+env
+
+__pycache__/
+
+__idea__/
+
+db.sqlite3
+
+
+config.py
+
+api.json
